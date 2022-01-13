@@ -17,4 +17,6 @@ You don't really need Laravel knowledge, just take a look at the file below. You
 The most important part is here https://github.com/solanacraft/laravel-phantom-wallet/blob/main/resources/views/home.blade.php
 
 ## DEMO
-You can watch the demo video on YouTube https://www.youtube.com/watch?v=DsyrJu0a0ZI 
+You can watch the demo video on YouTube https://www.youtube.com/watch?v=DsyrJu0a0ZI
+
+If you want to donate some SOL here is my wallet 😂 ApRceuVJjm19nQKX6d7e15FVLzzVuCoG8nEFY68XGSqL 
