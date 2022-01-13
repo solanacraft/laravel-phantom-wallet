@@ -72,7 +72,7 @@
         let connection = new solanaWeb3.Connection(solanaWeb3.clusterApiUrl('mainnet-beta'), 'confirmed');
         connection.getBalance(provider.publicKey).then(function (value) {
             let solBalanceDiv = $('.sol-balance');
-            solBalanceDiv.html('<b>Balance:</b> ' + (value/10000000000) + ' SOL');
+            solBalanceDiv.html('<b>Balance:</b> ' + (value/1000000000) + ' SOL');
             solBalanceDiv.show();
         });
     }
