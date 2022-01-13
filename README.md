@@ -10,3 +10,8 @@ This is Web 3.0 app which connects to Phantom wallet and fetching publicKey and 
 `composer install`
 
 `php artisan serve`
+
+## Code Reading Guide
+You don't really need Laravel knowledge, just take a look in the file below. You can simply put code in plain html/js app.
+
+The most important part is here https://github.com/solanacraft/laravel-phantom-wallet/blob/main/resources/views/home.blade.php
