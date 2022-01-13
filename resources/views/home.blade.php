@@ -83,7 +83,7 @@
                         connectAccountAnimation(publicKey.toString());
                     })
                     .catch(() => {
-                        alert("not connected");
+                        console.log("Not connected");
                     })
             }
 
